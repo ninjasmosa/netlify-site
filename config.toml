@@ -1,4 +1,4 @@
 baseURL = 'http://ninjasmosa.com/'
 languageCode = 'en-gb'
-title = 'The ninjasmosa official website'
+title = 'ninjasmosa'
 theme = "ananke"
