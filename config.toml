@@ -1,4 +1,42 @@
-baseURL = 'http://ninjasmosa.com/'
-languageCode = 'en-gb'
-title = 'ninjasmosa'
+title = "ninjasmosa"
+baseURL = "http://ninjasmosa.com"
+languageCode = "en-gb"
 theme = "ananke"
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 5
+googleAnalytics = ""
+enableRobotsTXT = true
+
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = "black"
+  author = "ninjasmosa"
+  favicon = "../text1059"
+  site_logo = "../text1058"
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = ""
+  recent_posts_number = 2
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/ninjasmosa"
+label = "ninjasmosa Twitter"
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/channel/UCUU5vDID2lyUkTbeU4ry-CQ/"
+label = "ninjasmosa YouTube"
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/ninjasmosa"
+label = "ninjasmosa GitHub"
