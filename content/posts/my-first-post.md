@@ -6,4 +6,4 @@ draft: false
 
 ## Test
 
-a
+If you're seeing this then it all works. Nothing has crashed and burned and now we can have some tea.
