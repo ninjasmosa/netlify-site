@@ -39,7 +39,6 @@ params:
     author: ninjasmosa
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: true
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
@@ -55,8 +54,6 @@ params:
     homeInfoParams:
         Title: ninjasmosa official website
         Content: Greetings!
-
-    ShowShareButtons: true
 
     socialIcons:
         - name: twitter
