@@ -55,7 +55,8 @@ params:
     ShowBreadCrumbs: true
     ShowPostNavLinks: true
     ShowCodeCopyButtons: true
-    # comments: false
+    comments: true
+    disqusShortname: ninjasmosa
 
     homeInfoParams:
         Title: ninjasmosa official website
