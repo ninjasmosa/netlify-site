@@ -17,15 +17,21 @@ languages:
         
 menu:
   main:
+    - name: About Me
+      url: aboutme
+      weight: 5
     - name: Archive
       url: archive
-      weight: 5
+      weight: 10
     - name: NFTs
       url: nfts
-      weight: 10
+      weight: 15
+    - name: Carrd
+      url: https://ninjasmosa.carrd.co
+      weight: 20
     - name: Search
       url: search
-      weight: 15
+      weight: 25
 
 
 outputs:
@@ -74,7 +80,7 @@ services:
 privacy:
     vimeo:
         disabled: false
-        simple: true
+        simple: false
 
     twitter:
         disabled: false
