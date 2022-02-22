@@ -1,4 +1,4 @@
-baseURL: http://ninjasmosa.com
+baseURL: http://ninjasmosa.netlify.app
 title: ninjasmosa
 paginate: 5
 theme: PaperMod
@@ -14,6 +14,25 @@ languages:
     en:
         languageName: "English"
         weight: 1
+        
+menu:
+  main:
+    - name: Archive
+      url: archive
+      weight: 5
+    - name: NFTs
+      url: nfts
+      weight: 10
+    - name: Search
+      url: search
+      weight: 15
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary 
 
 params:
     env: production
@@ -28,4 +47,47 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowToc: true
+    ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+    ShowCodeCopyButtons: true
     # comments: false
+
+    homeInfoParams:
+        Title: ninjasmosa official website
+        Content: Greetings!
+
+    ShowShareButtons: true
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/ninjasmosa"
+        - name: youtube
+          url: "https://www.youtube.com/channel/UCUU5vDID2lyUkTbeU4ry-CQ/"
+        - name: github
+          url: "https://github.com/ninjasmosa"
+        - name: email
+          url: "mailto:ninjasmosa@vivaldi.net"
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: false
