@@ -23,9 +23,16 @@ We have already proven that we can make money from our art without the need of t
 ## NFTs can be a lot more than what they are
 There are so many things that NFTs could be used for. The idea of digital purchases not being in the hands of one centralized company and instead being in the blockchain in a decentralized form could be used for many big things. Whether it's game, movie or trading card ownership or more. But right now, they're not in a good state. I do not want to participate in a scheme that has so much for concern.
 
+## Stolen works from me
+If you see one of my art or videos being sold on an NFT marketplace like Opensea or Rareible, it is stolen. Please report the NFT for theft and let me know so I can take action. You can get in touch with me on Twitter or [email me at ninjasmosa@vivaldi.net](mailto:ninjasmosa@vivaldi.net?subject=Your%20work%20was%20stolen%20for%20an%20NFT%20sale). 
+
 ## Further reading + References
 [Wikipedia: NFTs](https://en.wikipedia.org/wiki/Non-fungible_token)
+
 [Vice: Investors Spent Millions on ‘Evolved Apes’ NFTs. Then They Got Scammed.](https://www.vice.com/en/article/y3dyem/investors-spent-millions-on-evolved-apes-nfts-then-they-got-scammed)
+
 [The Atlantic: NFTs Weren’t Supposed to End Like This](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/)
+
 [BBC News: OpenSea admits insider trading of NFTs it promoted](https://www.bbc.co.uk/news/technology-58585342)
+
 [Wired: An artist died. Then thieves made NFTs of her work](https://www.wired.co.uk/article/nft-fraud-qinni-art)
