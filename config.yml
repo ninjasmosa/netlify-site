@@ -37,12 +37,15 @@ menu:
     - name: NFTs
       url: nfts
       weight: 25
+    - name: Donations
+      url: donations
+      weight: 30
     - name: Carrd
       url: https://ninjasmosa.carrd.co
-      weight: 30
+      weight: 35
     - name: Search
       url: search
-      weight: 35
+      weight: 40
 
 
 outputs:
