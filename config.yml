@@ -15,24 +15,34 @@ languages:
     en:
         languageName: "English"
         weight: 1
-        
+
+taxonomies:
+  category: categories
+  tag: tags 
+
 menu:
   main:
     - name: About Me
       url: aboutme
       weight: 5
+    - name: Projects
+      url: projects
+      weight: 10
+    - name: Tags
+      url: tags
+      weight: 15
     - name: Archive
       url: archive
-      weight: 10
+      weight: 20
     - name: NFTs
       url: nfts
-      weight: 15
+      weight: 25
     - name: Carrd
       url: https://ninjasmosa.carrd.co
-      weight: 20
+      weight: 30
     - name: Search
       url: search
-      weight: 25
+      weight: 35
 
 
 outputs:
@@ -58,6 +68,7 @@ params:
     ShowCodeCopyButtons: true
     comments: true
     disqusShortname: ninjasmosa
+    ShowPostNavLinks: true
 
     homeInfoParams:
         Title: ninjasmosa official website
