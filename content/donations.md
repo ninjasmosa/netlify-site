@@ -1,5 +1,5 @@
 ---
-title: "NFTs"
+title: "Donations"
 draft: false
 searchHidden: true
 ---
