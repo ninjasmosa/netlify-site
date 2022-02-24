@@ -69,8 +69,6 @@ params:
     ShowBreadCrumbs: true
     ShowPostNavLinks: true
     ShowCodeCopyButtons: true
-    comments: true
-    disqusShortname: ninjasmosa
     ShowPostNavLinks: true
 
     homeInfoParams:
