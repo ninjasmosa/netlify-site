@@ -1,7 +1,7 @@
 ---
 title: "NFTs"
 draft: false
-searchHidden: true
+searchHidden: false
 ---
 
 ## Why I currently do not support NFTs
@@ -15,10 +15,10 @@ For the most part NFT's are little more than a digital token stored in the block
 
 ## Even the creator of NFTs hates what they have become
 In that same Atlantic article, [Anil Dash](https://en.wikipedia.org/wiki/Anil_Dash), the creator of NFTs, says that he no longer wants his creation to be part of internet history or have any involvement in it. If even the creator of NFTs himself took a dislike towards them, then why not you?
-![I certainly didn’t predict the current NFT mania, and until recently had written off our project as a footnote in internet history.](https://i.imgur.com/kgUgQW4.png)
+![I certainly didn’t predict the current NFT mania, and until recently had written off our project as a footnote in internet history.](https://i.imgur.com/kgUgQW4.png "You know something is up when even the creator of NFTs himself hates them.")
 
 ## For decades we didn't need NFTs to earn from our art
-We have already proven that we can make money from our art without the need of this so-called 'blockchain revolution'. We used methods like physical print sales, commissions, OC adoptions and art trades. Who needs this NFT garbage when we can continue to earn from these traditional methods that earn us actual money not some unstable cryptocurrency?
+We have already proven that we can make money from our art without the need of this so-called 'NFT revolution'. We used methods like physical print sales, commissions, OC adoptions and art trades. Who needs this NFT garbage when we can continue to earn from these traditional methods that earn us actual money not some unstable cryptocurrency?
 
 ## NFTs can be a lot more than what they are
 There are so many things that NFTs could be used for. The idea of digital purchases not being in the hands of one centralized company and instead being in the blockchain in a decentralized form could be used for many big things. Whether it's game, movie or trading card ownership or more. But right now, they're not in a good state. I do not want to participate in a scheme that has so much for concern.
