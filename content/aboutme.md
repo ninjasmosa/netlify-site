@@ -5,16 +5,16 @@ searchHidden: true
 ---
 
 ## Intro
-Hey! Nice to meet you! My name's Ashley, I use They/She pronouns and I'm 16 years old. I really like Pokemon and Genshin Impact as well as various anime. I also like Vocaloid singers and editing wikis.
+Hey! Nice to meet you! My name's Addison, I use [They/She](https://en.pronouns.page/they&she) pronouns, I'm [non-binary](https://en.wikipedia.org/wiki/Non-binary_gender) [(Demigirl)](https://gender.fandom.com/wiki/Demigirl) and I'm 16 years old. I really like Pokemon and Genshin Impact as well as various anime. I also like Vocaloid singers and editing wikis.
 
 ## Other interests
-I also have an interest in coding, cryptocurrency, networking and open-source software. Though I only have knowledge in [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) I would like to learn more languages like [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) and [Javascript](https://en.wikipedia.org/wiki/JavaScript).
+I also have an interest in coding, cryptocurrency, networking and open-source software. Though I only have knowledge in [Python](https://www.python.org) I would like to learn more languages like [Swift](https://www.swift.org), [Javascript](https://en.wikipedia.org/wiki/JavaScript) and [Rust](https://www.rust-lang.org).
 
 ## PC specs
 - CPU: Intel Core i7-4790
 - RAM: 16GB DDR3
 - GPU: Nvidia GeForce 750 Ti
-- Storage: 512GB SATA SSD + 2TB HDD
+- Storage: 512GB SATA SSD + 2x2TB HDD
 - OS: Windows 10 Home
 
 ## More
