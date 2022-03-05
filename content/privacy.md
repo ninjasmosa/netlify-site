@@ -9,7 +9,7 @@ The elephant in the room here is that this website uses 3rd-party cookies. Namel
 - Twitter
 - YouTube
 - Vimeo
-- Imgur
+- Disqus
 - Google
 
 For the most part, cookies can be blocked via your web browser's settings. Please visit [knowcookies.com](https://knowcookies.com) for instructions. Keep in mind that blocking cookies my result in a degraded web experience.

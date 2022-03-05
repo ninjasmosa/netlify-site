@@ -10,6 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 googleAnalytics: G-DNXFBTXW88
+disqusShortname: ninjasmosa
 
 languages:
     en:
@@ -73,6 +74,7 @@ params:
     ShowPostNavLinks: true
     ShowCodeCopyButtons: true
     ShowPostNavLinks: true
+    Comments: true
 
     homeInfoParams:
         Title: ninjasmosa
