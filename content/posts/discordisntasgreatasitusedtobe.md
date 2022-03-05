@@ -21,7 +21,7 @@ The introduction of Discord Nitro was the start of what I would call a new chapt
 # What are the alternatives?
 Thankfully there are alternative messaging platforms that you can use instead of Discord. Vote with your wallets and use the service you prefer. Here are a few of them:
 
-*Reminder: These are not endorsements nor am I paid to mention these services. I just think they're neat.
+*Reminder: These are not endorsements nor am I paid to mention these services. I just think they're neat.*
 - [Revolt](https://revolt.chat) - Revolt is a free and open-source messaging application with a layout very similar to Discord. It also allows for features otherwise locked behind Discord Nitro (GIF profile pictures) or not even there at all (Markdown formatting for messages and bio).
 - [Microsoft Teams](https://www.microsoft.com/en-GB/microsoft-teams/group-chat-software/) - Microsoft Teams is a free-to-use messaging application by [Microsoft](https://www.microsoft.com). It allows for messaging in channels inside of servers as well as video calling. Though intended for business meetings there's nothing stopping you for using it for personal use.
 - [Signal](https://www.signal.org) - Signal is a free privacy-focused direct messaging app. Though not as feature-packed as Discord, it does allow for group chats and all messages are secured with [end-to-end encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) so you can be sure that nobody from outside is reading your messages.
