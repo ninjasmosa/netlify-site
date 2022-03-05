@@ -40,12 +40,15 @@ menu:
     - name: Donations
       url: donations
       weight: 30
+    - name: Socials
+      url: socials
+      weight: 35
     - name: Carrd
       url: https://ninjasmosa.carrd.co
-      weight: 35
+      weight: 40
     - name: Search
       url: search
-      weight: 40
+      weight: 45
 
 
 outputs:
