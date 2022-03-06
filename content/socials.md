@@ -12,4 +12,9 @@ searchHidden: true
 
 [Odysee](https://odysee.com/@mosatheninja:9)
 
+[HoYoLAB](https://www.hoyolab.com/accountCenter/postList?id=143117826)
+
 [Revolt server](https://app.revolt.chat/invite/CN6ZDq74)
+
+# Other
+[GitHub](https://github.com/ninjasmosa)
