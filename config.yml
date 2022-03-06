@@ -61,8 +61,8 @@ outputs:
 params:
     env: production
     author: ninjasmosa
-    defaultTheme: auto
-    # disableThemeToggle: true
+    defaultTheme: dark
+    disableThemeToggle: false
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true

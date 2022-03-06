@@ -1,7 +1,7 @@
 ---
 title: "Socials"
 draft: false
-searchHidden: false
+searchHidden: true
 ---
 
 *Most content hosted on external websites are out of my control*
