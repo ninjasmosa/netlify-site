@@ -5,7 +5,7 @@ searchHidden: true
 ---
 
 # Cookies
-The elephant in the room here is that this website uses 3rd-party cookies. Namely from:
+This website does make connections to third-party services, which may store cookies. These include:
 - Twitter
 - YouTube
 - Vimeo
@@ -16,5 +16,4 @@ For the most part, cookies can be blocked via your web browser's settings. Pleas
 # Google Analytics
 This website uses Google Analytics (GA) to track user data. I am only using this to gain an understanding on my audience, not to sell data to advertisers or hunt you down. You can use [this browser extension](https://tools.google.com/dlpage/gaoptout) to opt out of GA tracking. Alternatively you can use a tracker blocker. This may be included with your browser or you can install a browser extension.
 
-# Disqus
-Disqus is used to provide comments sections at the end of each post. Disqus uses cross-site tracking to personalize content to it's users. You can opt out of personalization [here](https://disqus.com/data-sharing-settings/).
+I plan to move away from GA in the future and replace it with [Plausible](https://plausible.io), an open-source privacy-respecting alternative that can be self-hosted.

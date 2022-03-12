@@ -7,6 +7,7 @@ tags:
 catagories: Posts
 ---
 
+![Discord logo](https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/1920px-Discord_logo.svg.png "Imagine a place... yeah...")
 # Once upon a time Discord was actually great
 Do you remember when [Discord](https://discord.com) was first released back in 2015? Feels like ages ago, doesn't it? Cheer up, it hasn’t been THAT long, even if it does feel like that. Anyway, point is, it’s been a while since Discord first saw the light of day and since then it’s been through some… interesting changes, some good (still a good messaging app), some not so much ([Discord Nitro](https://discord.com/nitro) and locking quality-of-life improvements behind it). There have also been reports of censorship and a poor focus on privacy.
 

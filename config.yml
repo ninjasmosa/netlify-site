@@ -22,7 +22,7 @@ taxonomies:
 
 menu:
   main:
-    - name: About Me
+    - name: About
       url: aboutme
       weight: 5
     - name: Projects
@@ -46,9 +46,12 @@ menu:
     - name: Carrd
       url: https://ninjasmosa.carrd.co
       weight: 40
+    - name: Privacy
+      url: privacy
+      weight: 45
     - name: Search
       url: search
-      weight: 45
+      weight: 50
 
 
 outputs:
