@@ -10,7 +10,6 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 googleAnalytics: G-DNXFBTXW88
-disqusShortname: ninjasmosa
 
 languages:
     en:
