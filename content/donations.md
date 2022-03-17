@@ -2,6 +2,7 @@
 title: "Donations"
 draft: false
 searchHidden: true
+show_comments: false
 ---
 
 # So you want to send me money

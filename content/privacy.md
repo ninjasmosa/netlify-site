@@ -2,6 +2,7 @@
 title: "Privacy"
 draft: false
 searchHidden: true
+show_comments: false
 ---
 
 # Cookies

@@ -2,6 +2,7 @@
 title: "Socials"
 draft: false
 searchHidden: true
+show_comments: false
 ---
 
 *Most content hosted on external websites are out of my control*

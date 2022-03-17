@@ -2,7 +2,6 @@ baseURL: https://ninjasmosa.com
 title: ninjasmosa
 paginate: 5
 theme: PaperMod
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
@@ -46,13 +45,9 @@ menu:
     - name: Carrd
       url: https://ninjasmosa.carrd.co
       weight: 40
-    - name: Privacy
-      url: privacy
-      weight: 45
     - name: Search
       url: search
-      weight: 50
-
+      weight: 45
 
 outputs:
     home:
@@ -63,6 +58,10 @@ outputs:
 params:
     env: production
     author: ninjasmosa
+    description: "Welcome to the official ninjasmosa website"
+    site_description: "Welcome to the official ninjasmosa website"
+    images:
+    - ..resources/text1058.png
     defaultTheme: auto
     disableThemeToggle: false
     ShowReadingTime: true
@@ -81,6 +80,8 @@ params:
     homeInfoParams:
         Title: ninjasmosa
         Content: Greetings!
+        images:
+        - ..assets/text1058.png
 
     socialIcons:
         - name: twitter
@@ -91,6 +92,23 @@ params:
           url: "https://github.com/ninjasmosa"
         - name: email
           url: "mailto:ninjasmosa@vivaldi.net"
+
+module:
+  mounts:
+  - source: content
+    target: content
+  - source: static
+    target: static
+  - source: layouts
+    target: layouts
+  - source: data
+    target: data
+  - source: assets
+    target: assets
+  - source: i18n
+    target: i18n
+  - source: archetypes
+    target: archetypes
 
 services:
     instagram:

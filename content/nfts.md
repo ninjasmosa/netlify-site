@@ -2,6 +2,7 @@
 title: "NFTs"
 draft: false
 searchHidden: false
+show_comments: false
 ---
 
 ## Why I currently do not support NFTs
