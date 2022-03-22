@@ -81,7 +81,7 @@ params:
         Title: ninjasmosa
         Content: Greetings!
         images:
-        - ..assets/text1058.png
+        - /text1058.png
 
     socialIcons:
         - name: twitter

@@ -8,7 +8,7 @@ tags:
 catagories: Posts
 ---
 
-![Discord logo](/Discord_logo.svg.png "Imagine a place... yeah...")
+![Discord logo](/images/discordsucks/Discord_logo.svg.png "Imagine a place... yeah...")
 # Once upon a time Discord was actually great
 Do you remember when [Discord](https://discord.com) was first released back in 2015? Feels like ages ago, doesn't it? Cheer up, it hasn’t been THAT long, even if it does feel like that. Anyway, point is, it’s been a while since Discord first saw the light of day and since then it’s been through some… interesting changes, some good (still a good messaging app), some not so much ([Discord Nitro](https://discord.com/nitro) and locking quality-of-life improvements behind it). There have also been reports of censorship and a poor focus on privacy.
 
@@ -24,7 +24,7 @@ The introduction of Discord Nitro was the start of what I would call a new chapt
 Thankfully there are alternative messaging platforms that you can use instead of Discord. Vote with your wallets and use the service you prefer. Here are a few of them:
 
 *Reminder: These are not endorsements nor am I paid to mention these services. I just think they're neat.*
-- [Revolt](https://revolt.chat) - Revolt is a free and open-source messaging application with a layout very similar to Discord. It also allows for features otherwise locked behind Discord Nitro (GIF profile pictures) or not even there at all (Markdown formatting for messages and bio).
+- [Revolt](https://revolt.chat) - Revolt is a free and open-source messaging application with a layout very similar to Discord. It also allows for features otherwise locked behind Discord Nitro (GIF profile pictures) or not even there at all (Markdown formatting for bio and custom themes and CSS).
 - [Microsoft Teams](https://www.microsoft.com/en-GB/microsoft-teams/group-chat-software/) - Microsoft Teams is a free-to-use messaging application by [Microsoft](https://www.microsoft.com). It allows for messaging in channels inside of servers as well as video calling. Though intended for business meetings there's nothing stopping you for using it for personal use.
 - [Signal](https://www.signal.org) - Signal is a free privacy-focused direct messaging app. Though not as feature-packed as Discord, it does allow for group chats and all messages are secured with [end-to-end encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) so you can be sure that nobody from outside is reading your messages.
 - [Escargot](https://escargot.chat) - Escargot is interesting. Rather than being a chat app by itself, it is a set of third-party servers to work with the late [MSN Messenger](https://en.wikipedia.org/wiki/Windows_Live_Messenger), essentially bringing it back to life. Though I haven't tried it out myself, it's worth a look especially if you have nostalgia for MSN.
