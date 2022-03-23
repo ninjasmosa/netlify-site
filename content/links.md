@@ -1,5 +1,5 @@
 ---
-title: "Socials"
+title: "Links"
 draft: false
 searchHidden: true
 show_comments: false
@@ -19,3 +19,5 @@ show_comments: false
 
 # Other
 [GitHub](https://github.com/ninjasmosa)
+
+[Pronouns.page](https://en.pronouns.page/@ninjasmosa)

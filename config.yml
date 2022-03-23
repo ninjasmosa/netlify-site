@@ -39,8 +39,8 @@ menu:
     - name: Donations
       url: donations
       weight: 30
-    - name: Socials
-      url: socials
+    - name: links
+      url: links
       weight: 35
     - name: Carrd
       url: https://ninjasmosa.carrd.co
