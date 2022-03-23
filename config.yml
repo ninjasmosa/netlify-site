@@ -39,7 +39,7 @@ menu:
     - name: Donations
       url: donations
       weight: 30
-    - name: links
+    - name: Links
       url: links
       weight: 35
     - name: Carrd
