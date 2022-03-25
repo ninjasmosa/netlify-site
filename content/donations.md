@@ -7,30 +7,38 @@ show_comments: false
 
 # So you want to send me money
 I currently accept the following means of payment:
+- [Bitcoin](https://bitcoin.org/en/)
+- [Ethereum](https://ethereum.org/en/)
+- [Cardano](https://cardano.org)
+- [Solana](https://solana.com)
+- [Monero]()
+- [Bitcoin Cash](https://bitcoincash.org)
 - [LBRY Credits (LBC)](https://en.wikipedia.org/wiki/LBRY)
-- [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+- [Dogecoin](https://dogecoin.com)
 
-## Donating in LBC
-### Method 1
-1. Go to [https://odysee.com/$/send](https://odysee.com/$/send).
-2. Sign in to your Odysee account if you haven't done so already.
-3. Select the 'Address' tab.
-4. Choose an amount to donate.
-5. In the 'recipient address' field, paste in my LBC wallet address (bUsf3Np5dU8ufmhaZ9FQyw5doDisibJqS4).
-6. Click send.
+## Cryptocurrency
+You can send me cryptocurrency to support me. Usually the process involves logging into your crypto portfolio and sending the money to the wallet address listed.
 
-[Visit this page for more info.](https://odysee.com/@OdyseeHelp:b/Monetization-of-Content:3)
+### Bitcoin
+` bc1qc4x5zjcdu8qvfwvd8ssrwtc0zpzsrr8n6f73h3 `
 
-### Method 2
-1. Go to [https://odysee.com/$/send](https://odysee.com/$/send).
-2. Sign in to your Odysee account if you haven't done so already.
-3. Select the 'Search' tab.
-4. In the 'Recipient search' field, type in '@mosatheninja' (without quote marks).
-5. Choose an amount to donate.
-6. Click send.
+### Ethereum
+` 0x78a8Af863B61A6b981f667eCd611Df571DFB6555 `
 
-## Donating in Ethereum
-Unfortunately I cannot provide specific instructions as there are different Ethereum wallets available. However it usually involves logging in to your Ethereum wallet and clicking the send option.
-In the send menu make sure you send to the following address: ` 0x78a8Af863B61A6b981f667eCd611Df571DFB6555 `
+### Cardano
+` addr1qxs0w68585ztz0qnljszx4aqu5zk3mvx9jjmsgcz3tn0np4q7a50g0gyky7p8l9qydt6peg9drkcvt99hq3s9zhxlxrql023en `
 
-This is my Ethereum wallet address. This is the only address I use. Any other addresses are not mine and you may be sending your money to someone else or even a fraudster.
+### Solana
+` DCTxTeieWmbgVJt5rnfLguHRs6ZEMyd8HptKu4Ce2ezB `
+
+### Monero
+` 42Y9YsrsctHUgW9dJycVexAQWXuh6WVVNRiUqzWPFDDiTrSm74UZJyeW4T2o2wmaBUTavDBAxRz4eA5qqRhJqQgrQhQKfDB `
+
+### Bitcoin Cash
+` qqfcnsm6cuxt0wh33tvztvym5kndpsan7s7e7vrwax `
+
+### LBC
+` bUsf3Np5dU8ufmhaZ9FQyw5doDisibJqS4 `
+
+### Dogecoin
+` DKUoNVcUUUjHzjMNNtWbsEEfv1pTGbYAjV `
