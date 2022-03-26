@@ -61,7 +61,7 @@ params:
     description: "Welcome to the official ninjasmosa website"
     site_description: "Welcome to the official ninjasmosa website"
     images:
-    - ..resources/text1058.png
+    - /text1058.png
     defaultTheme: auto
     disableThemeToggle: false
     ShowReadingTime: true

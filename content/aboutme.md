@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About me"
 draft: false
 searchHidden: true
 show_comments: false
@@ -17,6 +17,13 @@ I also have an interest in coding, cryptocurrency, networking and open-source so
 - GPU: Nvidia GeForce 750 Ti
 - Storage: 512GB SATA SSD + 2x2TB HDD
 - OS: Windows 10 Home
+
+# Games I play
+- [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)
+- [Pokemon](https://en.wikipedia.org/wiki/Pok%C3%A9mon) (Sword, Shining Pearl, Masters)
+- [Project Diva Mega Mix](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
+- [Project Sekai Colorful Stage](https://en.wikipedia.org/wiki/Hatsune_Miku:_Colorful_Stage!)
+- [BanG Dream! Girls Band Party!](https://en.wikipedia.org/wiki/BanG_Dream!_Girls_Band_Party!)
 
 # More
 You can find more info about me by clicking onto my [Carrd](https://ninjasmosa.carrd.co), which you can find linked in the header.

@@ -11,7 +11,7 @@ I currently accept the following means of payment:
 - [Ethereum](https://ethereum.org/en/)
 - [Cardano](https://cardano.org)
 - [Solana](https://solana.com)
-- [Monero]()
+- [Monero](https://www.getmonero.org)
 - [Bitcoin Cash](https://bitcoincash.org)
 - [LBRY Credits (LBC)](https://en.wikipedia.org/wiki/LBRY)
 - [Dogecoin](https://dogecoin.com)
