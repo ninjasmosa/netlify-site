@@ -86,6 +86,8 @@ params:
         imageWidth: 360 # custom size
         imageHeight: 360 # custom size
         buttons:
+          - name: About me
+            url: /aboutme
           - name: Posts
             url: /posts
           - name: Projects
