@@ -42,12 +42,9 @@ menu:
     - name: Links
       url: links
       weight: 35
-    - name: Carrd
-      url: https://ninjasmosa.carrd.co
-      weight: 40
     - name: Search
       url: search
-      weight: 45
+      weight: 40
 
 outputs:
     home:
@@ -92,6 +89,8 @@ params:
             url: /posts
           - name: Projects
             url: /projects
+          - name: NFTs
+            url: /nfts
           - name: Donations
             url: /donations
 
