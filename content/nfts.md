@@ -1,5 +1,6 @@
 ---
 title: "NFTs"
+description: "NFTs suck"
 draft: false
 searchHidden: false
 show_comments: false

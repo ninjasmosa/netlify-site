@@ -30,21 +30,24 @@ menu:
     - name: Posts
       url: posts
       weight: 15
+    - name: Tutorials
+      url: tutorials
+      weight: 20
     - name: Archive
       url: archive
-      weight: 20
+      weight: 25
     - name: NFTs
       url: nfts
-      weight: 25
+      weight: 30
     - name: Donations
       url: donations
-      weight: 30
+      weight: 35
     - name: Links
       url: links
-      weight: 35
+      weight: 40
     - name: Search
       url: search
-      weight: 40
+      weight: 45
 
 outputs:
     home:
@@ -89,6 +92,8 @@ params:
             url: /posts
           - name: Projects
             url: /projects
+          - name: Tutorials
+            url: /tutorials
           - name: NFTs
             url: /nfts
           - name: Donations
