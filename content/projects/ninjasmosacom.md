@@ -9,7 +9,7 @@ categories:
 draft: false
 ---
 # About the website
-![Screenshot of my new website](https://pbs.twimg.com/media/FMStejUWYAUbG0G?format=jpg&name=large "Screenshot of my new website")
+![Screenshot of my new website](/images/websitedata/ninjasmosa.com.jpg "Screenshot of my new website")
 This website was built using Hugo, a static website builder coded in Go, and hosted on Cloudflare Pages (previously Netlify). The source code can be seen [on GitHub](https://github.com/ninjasmosa/ninjasmosa.com).
 
 Written in a mix of markdown, HTML and CSS, I made this to replace my old website which was built on Google Sites, after finding it restrictive and being unable to get the custom domain to properly work. Not only that it was also quite bloated, being slow to load on slow internet and was also tied to a big tech company. While the old website will continue to remain available [here](https://sites.google.com/view/ninjasmosa), this new one is what I will be updating long-term.
