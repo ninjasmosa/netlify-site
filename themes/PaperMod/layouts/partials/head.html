@@ -1,6 +1,5 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-{{- template "_internal/google_analytics_async.html" . }}
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 {{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
 <meta name="robots" content="index, follow">
@@ -157,7 +156,6 @@
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
-{{- template "partials/templates/cookie-consent.html" . }}
 {{- template "partials/templates/opengraph.html" . }}
 {{- template "partials/templates/twitter_cards.html" . }}
 {{- template "partials/templates/schema_json.html" . }}
