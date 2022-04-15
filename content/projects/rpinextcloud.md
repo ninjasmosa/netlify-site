@@ -9,7 +9,7 @@ categories:
     - Projects
 draft: false
 ---
-![A Raspberry Pi single-board computer](/images/rpicloud/IMG_20220408_080338.jpg)
+{{< figure src="/images/rpicloud/IMG_20220408_080338.jpg" align="center" alt="A Raspberry Pi single-board computer" caption="A Raspberry Pi single-board computer" >}}
 
 # What is it?
 This is a [Raspberry Pi](https://www.raspberrypi.org) running the software [Nextcloud](https://nextcloud.com). The Raspberry is a low-cost single-board computer. It can be used for a wide variety of cases, like robotics or controlling electrical devices. Nextcloud is an open-source program that allows you to store your files on a server of your choice or even your own.
@@ -23,7 +23,7 @@ In this day and age, we seem to be taking data privacy and security more serious
 Basically, it involves installing PHP and Apache on your server then installing Nextcloud. After that you have to configure where the files are stored, the trusted domains and link the server's public IP to your domain through its DNS settings. Sound complicated? It is, I had to follow a tutorial [(this one)](https://pimylifeup.com/raspberry-pi-nextcloud-server/). The fact I even managed to follow that tutorial I already consider an achievement.
 
 # What can you do?
-![The Nextcloud dashboard in a Vivaldi browser window. The top text says "good afternoon" and below is a list of files](/images/rpicloud/dashboard.jpg "The Nextcloud dashboard")
+{{< figure src="/images/rpicloud/dashboard.jpg" align="center" alt="The Nextcloud dashboard in a Vivaldi browser window. The top text says 'good afternoon' and below is a list of files" caption="The Nextcloud dashboard" border="black" >}}
 The basic functionality is that you can upload files to it and store it there to access it on any device with an internet connection, just like any other cloud storage service. With a domain name you can access these files outside your home network. Extra functionality can be added through addons called "apps".
 
 # Conclusion

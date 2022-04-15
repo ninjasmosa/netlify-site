@@ -9,15 +9,17 @@ categories:
 draft: false
 ---
 # About the website
-![Screenshot of my new website](/images/websitedata/ninjasmosa.com.jpg "Screenshot of my new website")
+{{< figure src="/images/websitedata/ninjasmosa.com.jpg" align="center" caption="Screenshot of my new website" border="white" >}}
 This website was built using Hugo, a static website builder coded in Go, and hosted on Cloudflare Pages (previously Netlify). The source code can be seen [on GitHub](https://github.com/ninjasmosa/ninjasmosa.com).
 
 Written in a mix of markdown, HTML and CSS, I made this to replace my old website which was built on Google Sites, after finding it restrictive and being unable to get the custom domain to properly work. Not only that it was also quite bloated, being slow to load on slow internet and was also tied to a big tech company. While the old website will continue to remain available [here](https://sites.google.com/view/ninjasmosa), this new one is what I will be updating long-term.
 
 # A bit of history
 ## The origins
-In late 2021 I had the idea to create a website. I decided to use [Google Sites](https://sites.google.com/new) because of its ease of use and how good a website can look with it. The old website is currently still available on [https://sites.google.com/view/ninjasmosa](https://sites.google.com/view/ninjasmosa). In the end I was quite proud with how everythig turned out.
-![Screenshot of my old website](https://pbs.twimg.com/media/FMStW6bWUAAl4LM?format=jpg&name=large "Screenshot of my old website")
+In late 2021 I had the idea to create a website. I decided to use [Google Sites](https://sites.google.com/new) because of its ease of use and how good a website can look with it. ~~The old website is currently still available on [https://sites.google.com/view/ninjasmosa](https://sites.google.com/view/ninjasmosa).~~ **UPDATE: The old website is not longer online.**
+
+In the end I was quite proud with how everything turned out.
+{{< figure src="https://pbs.twimg.com/media/FMStW6bWUAAl4LM?format=jpg&name=large" align="center" caption="Screenshot of my old website" border="black" >}}
 
 ## However I wanted more
 After a few weeks I realized that Google Sites was as bare-bones as website builders got. There wasn't a lot of features and there wasn't a lot of customisability on offer. Also Google is a big tech company known for constantly closing down old products and selling your data to the highest bidder. That was when I decided to consider other options.

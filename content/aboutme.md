@@ -26,7 +26,7 @@ I also have an interest in coding, cryptocurrency, networking and open-source so
 - [BanG Dream! Girls Band Party!](https://en.wikipedia.org/wiki/BanG_Dream!_Girls_Band_Party!)
 
 # More
-You can find more info about me by clicking onto my [Carrd](https://ninjasmosa.carrd.co), which you can find linked in the header.
+You can find more info about me by clicking onto my [Carrd](https://ninjasmosa.carrd.co). Just note that I no longer update this often.
 
 # Revolt Chat server
 Join my Revolt server if you want to chat to me or other people here.
