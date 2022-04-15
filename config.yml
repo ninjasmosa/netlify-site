@@ -1,5 +1,6 @@
 baseURL: https://ninjasmosa.com
-title: ninjasmosa
+title: ninjasmosa website
+description: "Welcome to the official ninjasmosa website"
 paginate: 5
 theme: PaperMod
 enableInlineShortcodes: true
