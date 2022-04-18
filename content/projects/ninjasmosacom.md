@@ -16,7 +16,7 @@ Written in a mix of markdown, HTML and CSS, I made this to replace my old websit
 
 # A bit of history
 ## The origins
-In late 2021 I had the idea to create a website. I decided to use [Google Sites](https://sites.google.com/new) because of its ease of use and how good a website can look with it. ~~The old website is currently still available on [https://sites.google.com/view/ninjasmosa](https://sites.google.com/view/ninjasmosa).~~ **UPDATE: The old website is not longer online.**
+In late 2021 I had the idea to create a website. I decided to use [Google Sites](https://sites.google.com/new) because of its ease of use and how good a website can look with it. ~~The old website is currently still available on [https://sites.google.com/view/ninjasmosa](https://sites.google.com/view/ninjasmosa).~~ **UPDATE: The old website is no longer online.**
 
 In the end I was quite proud with how everything turned out.
 {{< figure src="https://pbs.twimg.com/media/FMStW6bWUAAl4LM?format=jpg&name=large" align="center" caption="Screenshot of my old website" border="black" >}}

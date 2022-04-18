@@ -29,5 +29,7 @@ I also have an interest in coding, cryptocurrency, networking and open-source so
 You can find more info about me by clicking onto my [Carrd](https://ninjasmosa.carrd.co). Just note that I no longer update this often.
 
 # Revolt Chat server
-Join my Revolt server if you want to chat to me or other people here.
-[Revolt server](https://app.revolt.chat/invite/CN6ZDq74)
+I own two public servers on Revolt:
+
+- [My main server, where we talk abut basically anything](https://app.revolt.chat/invite/CN6ZDq74)
+- [The unofficial Project Sekai Colorful Stage server](https://app.revolt.chat/invite/YV5rJaM8)
