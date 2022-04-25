@@ -1,6 +1,5 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
-    {{ partial "social_icons.html" $.Site.Params.socialIcons }}
     {{- if .Site.Copyright }}
     <span>{{ .Site.Copyright | markdownify }}</span>
     {{- else }}
@@ -9,6 +8,7 @@
     <span>
         • Content licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a> unless stated otherwise •<br /> • <a href="https://ninjasmosa.com/privacy">Privacy Policy</a> •
     </span>
+    {{ partial "social_icons.html" $.Site.Params.socialIcons }}
 </footer>
 {{- end }}
 

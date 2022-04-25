@@ -102,6 +102,8 @@ params:
     socialIcons:
         - name: twitter
           url: "https://twitter.com/ninjasmosa"
+        - name: mastodon
+          url: "https://miruku.cafe/@ninjasmosa"
         - name: youtube
           url: "https://www.youtube.com/channel/UCUU5vDID2lyUkTbeU4ry-CQ/"
         - name: steam

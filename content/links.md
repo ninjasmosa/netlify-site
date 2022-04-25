@@ -11,6 +11,8 @@ show_comments: false
 ## Socials
 [Twitter](https://twitter.com)
 
+[Fediverse (Misskey)](https://miruku.cafe/@ninjasmosa)
+
 [YouTube](https://www.youtube.com/channel/UCUU5vDID2lyUkTbeU4ry-CQ)
 
 [Odysee](https://odysee.com/@mosatheninja:9)
