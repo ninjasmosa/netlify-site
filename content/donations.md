@@ -5,7 +5,6 @@ searchHidden: true
 show_comments: false
 ---
 
-# So you want to send me money
 I currently accept the following means of payment:
 - [Bitcoin](https://bitcoin.org/en/)
 - [Ethereum](https://ethereum.org/en/)

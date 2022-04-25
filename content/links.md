@@ -8,7 +8,7 @@ show_comments: false
 *Most content hosted on external websites are out of my control*
 
 
-# Socials
+## Socials
 [Twitter](https://twitter.com)
 
 [YouTube](https://www.youtube.com/channel/UCUU5vDID2lyUkTbeU4ry-CQ)
@@ -19,7 +19,7 @@ show_comments: false
 
 [Revolt server](https://app.revolt.chat/invite/CN6ZDq74)
 
-# Other
+## Other
 [GitHub](https://github.com/ninjasmosa)
 
 [Pronouns.page](https://en.pronouns.page/@ninjasmosa)

@@ -9,12 +9,12 @@ categories:
 draft: false
 ---
 
-# Step 1
+## Step 1
 Send your victim this link: [https://youtu.be/dQw4w9WgXcQ](https://youtu.be/dQw4w9WgXcQ)
 {{< youtube dQw4w9WgXcQ >}}
 
-# Step 2
+## Step 2
 ...
 
-# Step 3
+## Step 3
 Profit
