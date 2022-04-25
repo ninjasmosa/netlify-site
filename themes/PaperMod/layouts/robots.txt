@@ -1,7 +1,29 @@
 User-agent: *
 {{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
-Disallow:
+Disallow: /categories/
+Disallow: /categories/projects/
+Disallow: /tags/
+Disallow: /tags/projects/
+Disallow: /tags/games/
+Disallow: /tags/discord/
+Disallow: /tags/twitter/
+Disallow: /tags/website/
+Disallow: /projects/
+Disallow: /links/
+Disallow: /search/
+Disallow: /privacy/
 {{- else }}
-Disallow: /
+Disallow: /categories/
+Disallow: /categories/projects/
+Disallow: /tags/
+Disallow: /tags/projects/
+Disallow: /tags/games/
+Disallow: /tags/discord/
+Disallow: /tags/twitter/
+Disallow: /tags/website/
+Disallow: /projects/
+Disallow: /links/
+Disallow: /search/
+Disallow: /privacy/
 {{- end }}
 Sitemap: {{ "sitemap.xml" | absURL }}
