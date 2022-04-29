@@ -62,7 +62,7 @@ params:
     site_description: "Welcome to the official ninjasmosa website"
     images:
     - /text1058.png
-    defaultTheme: auto
+    defaultTheme: dark
     disableThemeToggle: false
     ShowReadingTime: true
     # disableSpecial1stPost: true
