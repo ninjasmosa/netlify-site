@@ -4,6 +4,7 @@ description: "Tutorial on how to rickroll someone"
 date: 2022-04-07T16:15:00Z
 tags: 
     - tutorial
+    - rickroll
 categories:
     - Tutorials
 draft: false

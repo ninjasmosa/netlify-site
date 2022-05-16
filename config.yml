@@ -1,7 +1,7 @@
 baseURL: https://ninjasmosa.com
 title: ninjasmosa.com
 description: "Welcome to the official ninjasmosa website"
-paginate: 10
+paginate: 20
 theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -111,7 +111,7 @@ params:
         - name: github
           url: "https://github.com/ninjasmosa"
         - name: email
-          url: "mailto:itsme@ninjasmosa.com"
+          url: "mailto:ninjasmosa@vivaldi.net"
 
 module:
   mounts:
