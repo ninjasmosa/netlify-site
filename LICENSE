@@ -1,0 +1,6 @@
+Now when it comes to licensing, this is when things get interesting. Let me explain.
+
+- The Hugo framework itself is licensed under Apache-2.0.
+- Giscus, the comments service I use, is licensed under MIT.
+- PaperMod, the template I used is also licensed under MIT.
+- The content on my website is generally licensed under Creative Commons Attribution-ShareAlike 4.0 International. Any content that is not licensed under this or is "All Rights Reserved" will be clearly labelled as such.
