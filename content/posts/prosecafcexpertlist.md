@@ -11,12 +11,15 @@ catagories: Posts
 
 *Ordered in difficulty from low to high*
 
+- Tell Your World
 - Love Trial
 - once upon a dream
 - on the rocks
 - Tale of the Deep-sea Lily
+- Nostalogic
 - 「１」
 - Mikumiku Ni Shiteageru
+- ROKI
 - As You Like It
 - Newly Edgy Idols
 - Becoming Potatoes
