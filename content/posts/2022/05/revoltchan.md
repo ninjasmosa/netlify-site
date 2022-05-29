@@ -11,7 +11,7 @@ catagories: Posts
 
 On March 2022, I created Revolt-chan, Revolt's unofficial mascot and with that my first original drawn character. Since then I received ~~a ton~~ basically no feedback on it. ~~Some people~~ Nobody has asked me about the potential future of this character, so let me explain.
 
-{{< figure src="/images/revoltchan/revoltchan.webp" align="center" alt="Revolt-chan" caption="First ever drawing of Revolt-chan © 2022 ninjasmosa">}}
+{{< figure src="/images/revoltchan/revoltchan.webp" align="center" alt="Revolt-chan" caption="First ever drawing of Revolt-chan © 2022 ninjasmosa, All Rights Reserved">}}
 
 ## Redrawing
 
