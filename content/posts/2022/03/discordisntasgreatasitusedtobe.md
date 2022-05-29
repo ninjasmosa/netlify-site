@@ -9,21 +9,25 @@ catagories: Posts
 ---
 
 {{< figure src="/images/discordsucks/Discord_logo.svg.png" align="center" alt="Discord logo" caption="Imagine a place... yeah..." >}}
+
+*Update  29/05/2022: This articles represents the issues I had with Discord back in March 2022. These are all personal issues I have had and as such I do not talk about any of its supposed controversies, nor is it representative of my current views. Remember to do your own research, not just take the word of what one YouTube video says.*
+
 ## Once upon a time Discord was actually great
 Do you remember when [Discord](https://discord.com) was first released back in 2015? Feels like ages ago, doesn't it? Cheer up, it hasn’t been THAT long, even if it does feel like that. Anyway, point is, it’s been a while since Discord first saw the light of day and since then it’s been through some… interesting changes, some good (still a good messaging app), some not so much ([Discord Nitro](https://discord.com/nitro) and locking quality-of-life improvements behind it). There have also been reports of censorship and a poor focus on privacy.
 
 ## Downfall
 The introduction of Discord Nitro was the start of what I would call a new chapter of Discord. It sounded alright initially, to get a few extra features while keeping Discord afloat. However, over time, they started to lock quality-of-life improvements behind Nitro like larger file size limits and even just using animated emotes. In my opinion it's getting very out of hand.
-{{< figure src="https://pbs.twimg.com/media/FEQX2rwWUAkhKjM?format=jpg&name=medium" align="center" alt="Discord popup that says the following: Your files are too powerful! Max file size is 8MB. Upgrade to Discord Nitro for 100MB file limit!" caption="Even uploading files more than 8MB in size requires a subscription" border="white" >}}
+{{< figure src="/images/discordsucks/FEQX2rwWUAkhKjM.jpg" align="center" alt="Discord popup that says the following: Your files are too powerful! Max file size is 8MB. Upgrade to Discord Nitro for 100MB file limit!" caption="Even uploading files more than 8MB in size requires a subscription" border="white" >}}
 
 ### But wait, there's more
 [Discord recently announced that they would be updating their terms of service.](https://discord.com/terms) I decided to give it a read and found some of it to be concerning. Namely this part which you can see below.
 {{< figure src="https://cdn.discordapp.com/attachments/523823849490350081/947186154904625232/unknown.png" align="center" alt="Snippet of Discord's TOS which says the following: Your content is yours, but you give us a license to it when you use Discord. Your content may be protected by certain intellectual property rights. We don’t own those. But by using our services, you grant us a license—which is a form of permission—to do the following with your content, in accordance with applicable legal requirements, in connection with operating, developing, and improving our services: Use, copy, store, distribute, and communicate your content in manners consistent with your use of the services. (For example, so we can store and display your content.) Publish, publicly perform, or publicly display your content if you’ve chosen to make it visible to others. (For example, so we can display your messages if you post them in public servers.) Monitor, modify, translate, and reformat your content. (For example, so we can resize an image you post to fit on a mobile device.) Sublicense your content, to allow our services to work as intended. (For example, so we can store your content with our cloud service providers.)" caption="Discord can basically do whatever they want with your messages. They can also hold onto this content forever, even if you delete your account and/or messages." border="black" >}}
+*Update 29/05/2022: This may have been a misinterpretation. Discord may not be giving themselves the ability to do whatever they want with your property. However I stand by my concerns with their decision to hold onto your uploaded messages and content even if your delete your account.*
 
 ## What are the alternatives?
 Thankfully there are alternative messaging platforms that you can use instead of Discord. Vote with your wallets and use the service you prefer. Here are a few of them:
 
-*Reminder: These are not endorsements nor am I paid to mention these services. I just think they're neat.*
+*Reminder: These are not endorsements nor am I paid to mention these services.*
 - [Revolt](https://revolt.chat) - Revolt is a free and open-source messaging application with a layout very similar to Discord. It also allows for features otherwise locked behind Discord Nitro (GIF profile pictures) or not even there at all (Markdown formatting for bio and custom themes and CSS).
 - [Microsoft Teams](https://www.microsoft.com/en-GB/microsoft-teams/group-chat-software/) - Microsoft Teams is a free-to-use messaging application by [Microsoft](https://www.microsoft.com). It allows for messaging in channels inside of servers as well as video calling. Though intended for business meetings there's nothing stopping you for using it for personal use.
 - [Signal](https://www.signal.org) - Signal is a free privacy-focused direct messaging app. Though not as feature-packed as Discord, it does allow for group chats and all messages are secured with [end-to-end encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) so you can be sure that nobody from outside is reading your messages.
