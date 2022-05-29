@@ -15,8 +15,10 @@ catagories: Posts
 - Love Trial
 - once upon a dream
 - on the rocks
+- 39Music!
 - Tale of the Deep-sea Lily
 - Nostalogic
+- ECHO
 - 「１」
 - Mikumiku Ni Shiteageru
 - ROKI
@@ -24,19 +26,21 @@ catagories: Posts
 - Newly Edgy Idols
 - Becoming Potatoes
 - Wah Wah World
+- Hibikase
 - Ready Steady
 - Nijiiro Stories
 
 ## What I want to Full Combo
 
-- Hibikase
 - ID SMILE
 - Miracle Paint
+- Dance Robot Dance
 - BRING IT ON
+- Bocca della Verita
 - Senbonzakura
 - Viva Happy
 - Ifuudoudou
 - Fragile
 - Melty Land Nightmare
-- ROKI
-- ECHO
+- Law-evading Rock
+- GimmexGimme
