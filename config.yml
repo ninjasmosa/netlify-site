@@ -21,33 +21,36 @@ taxonomies:
 
 menu:
   main:
-    - name: About
-      url: aboutme
+    - name: About me
+      url: /aboutme
       weight: 5
     - name: Projects
-      url: projects
+      url: /projects
       weight: 10
     - name: Posts
-      url: posts
+      url: /posts
       weight: 15
     - name: Tutorials
-      url: tutorials
+      url: /tutorials
       weight: 20
     - name: Archive
-      url: archive
+      url: /archive
       weight: 25
     - name: NFTs
-      url: nfts
+      url: /nfts
       weight: 30
     - name: Donations
-      url: donations
+      url: /donations
       weight: 35
-    - name: Links
-      url: links
+    - name: RSS feeds
+      url: /rss
       weight: 40
-    - name: Search
-      url: search
+    - name: Links
+      url: /links
       weight: 45
+    - name: Search
+      url: /search
+      weight: 50
 
 outputs:
     home:
@@ -110,6 +113,8 @@ params:
           url: "https://steamcommunity.com/id/ninjasmosa/"
         - name: github
           url: "https://github.com/ninjasmosa"
+        - name: rss
+          url: "rss"
         - name: email
           url: "mailto:itsme@ninjasmosa.com?body=%5BDelete%20this%20part%20when%20finished%5D%0ANote%20that%20replies%20to%20this%20email%20may%20come%20from%20ninjasmosa%20(at)%20vivaldi%20(dot)%20net%0A%5BDelete%20this%20part%20when%20finished%5D"
 
