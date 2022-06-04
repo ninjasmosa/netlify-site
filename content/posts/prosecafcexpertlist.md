@@ -13,13 +13,18 @@ catagories: Posts
 
 - Tell Your World
 - Love Trial
+- Jishoumushoku
+- Hitorinbo Envy
 - once upon a dream
 - on the rocks
 - 39Music!
+- Because You're Here
 - Tale of the Deep-sea Lily
 - Nostalogic
+- dreamin chuchu
 - ECHO
 - 「１」
+- Color of Drops
 - Mikumiku Ni Shiteageru
 - ROKI
 - As You Like It
@@ -29,10 +34,10 @@ catagories: Posts
 - Hibikase
 - Ready Steady
 - Nijiiro Stories
+- ID SMILE
 
 ## What I want to Full Combo
 
-- ID SMILE
 - Miracle Paint
 - Dance Robot Dance
 - BRING IT ON

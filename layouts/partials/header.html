@@ -2,6 +2,8 @@
 {{- if (not .Site.Params.disableThemeToggle) }}
 {{- /* theme is light */}}
 {{- if (eq .Site.Params.defaultTheme "light") }}
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -40,6 +42,7 @@
 {{- end }}
 
 <header class="header">
+    <meta http-equiv="Content-Security-Policy" content="default-src https:">
     <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "31bd9fae9a8141798b2debe88570af31"}'></script><!-- End Cloudflare Web Analytics -->
     <nav class="nav">
         <div class="logo">
