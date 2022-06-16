@@ -6,10 +6,10 @@ show_comments: false
 ---
 
 ## Intro
-Hey! Nice to meet you! My name's Addison, I use [They/She](https://en.pronouns.page/they&she) pronouns, I'm [non-binary](https://en.wikipedia.org/wiki/Non-binary_gender) [(Demigirl)](https://gender.fandom.com/wiki/Demigirl) and I'm 16 years old. I really like Pokemon and Genshin Impact as well as various anime. I also like Vocaloid singers and editing wikis.
+Hey! Nice to meet you! My name's Addison. I use [They/She](https://en.pronouns.page/they&she) pronouns. I really like Pokemon, Genshin Impact, various anime and Vocaloid singers.
 
 ## Other interests
-I also have an interest in coding, cryptocurrency, networking and open-source software. Though I only have knowledge in [Python](https://www.python.org) I would like to learn more languages like [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Kotlin](https://kotlinlang.org/) and [Rust](https://www.rust-lang.org).
+I also have an interest in coding and open-source software. Though I only have knowledge in [Python](https://www.python.org) I would like to learn more languages like [Rust](https://www.rust-lang.org).
 
 ## PC specs
 - CPU: Intel Core i7-4790
@@ -24,9 +24,6 @@ I also have an interest in coding, cryptocurrency, networking and open-source so
 - [Project Diva Mega Mix](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
 - [Project Sekai Colorful Stage](https://en.wikipedia.org/wiki/Hatsune_Miku:_Colorful_Stage!)
 - [BanG Dream! Girls Band Party!](https://en.wikipedia.org/wiki/BanG_Dream!_Girls_Band_Party!)
-
-# More
-You can find more info about me by clicking onto my [Carrd](https://ninjasmosa.carrd.co). Just note that I no longer update this often.
 
 # Revolt Chat server
 I own two public servers on Revolt:
