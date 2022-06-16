@@ -2,6 +2,8 @@
 {{- if (not .Site.Params.disableThemeToggle) }}
 {{- /* theme is light */}}
 {{- if (eq .Site.Params.defaultTheme "light") }}
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
