@@ -116,7 +116,7 @@ params:
         - name: rss
           url: "rss"
         - name: email
-          url: "mailto:itsme@ninjasmosa.com?body=%5BDelete%20this%20part%20when%20finished%5D%0ANote%20that%20replies%20to%20this%20email%20may%20come%20from%20ninjasmosa%20(at)%20vivaldi%20(dot)%20net%0A%5BDelete%20this%20part%20when%20finished%5D"
+          url: "mailto:ninjasmosa@vivaldi.net
 
 module:
   mounts:

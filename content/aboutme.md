@@ -18,7 +18,7 @@ I also have an interest in coding and open-source software. Though I only have k
 - CPU: Intel Core i7-12700K
 - RAM: 32GB DDR4 3200MHZ
 - GPU: AMD Radeon RM 6700 XT
-- Storage: 1TB WD Blue SN570
+- Storage: 1TB WD Blue SN570 + 2TB SATA HDD
 - OS: Windows 11 Home
 
 {{< /details >}}
@@ -29,8 +29,8 @@ I also have an interest in coding and open-source software. Though I only have k
 - CPU: Intel Core i7-4790
 - RAM: 16GB DDR3
 - GPU: Nvidia GeForce 750 Ti
-- Storage: 512GB SATA SSD + 2x2TB HDD
-- OS: Windows 10 Home
+- Storage: 512GB SATA SSD
+- OS: Pop!_OS 22.04
 
 {{< /details >}}
 
