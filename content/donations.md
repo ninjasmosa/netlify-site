@@ -5,55 +5,51 @@ searchHidden: true
 show_comments: false
 ---
 
-I currently accept the following means of payment:
-- [Bitcoin](https://bitcoin.org/en/)
-- [Ethereum](https://ethereum.org/en/)
-- [Monero](https://www.getmonero.org)
-- [Cardano](https://cardano.org)
-- [Solana](https://solana.com)
-- [Cosmos](https://cosmos.network/)
-- [Tezos](https://tezos.com/)
-- [Ripple (XRP)](https://ripple.com/)
-- [Litecoin](https://litecoin.com/en/)
-- [Bitcoin Cash](https://bitcoincash.org)
-- [LBRY Credits (LBC)](https://en.wikipedia.org/wiki/LBRY)
-- [Dogecoin](https://dogecoin.com)
+Check the table of contents above to see what payment methods I accept.
 
 ## Cryptocurrency
-You can send me cryptocurrency to support me. Usually the process involves logging into your crypto portfolio and sending the money to the wallet address listed.
+You can send me cryptocurrency to support me. Usually the process involves logging into your crypto wallet and sending the money to the wallet address listed.
 
-### Bitcoin
+### Bitcoin (BTC)
 ` bc1qc4x5zjcdu8qvfwvd8ssrwtc0zpzsrr8n6f73h3 `
 
-### Ethereum
+### Ethereum (ETH)
 ` 0x78a8Af863B61A6b981f667eCd611Df571DFB6555 `
 
-### Monero
+### Monero (XMR)
 ` 42Y9YsrsctHUgW9dJycVexAQWXuh6WVVNRiUqzWPFDDiTrSm74UZJyeW4T2o2wmaBUTavDBAxRz4eA5qqRhJqQgrQhQKfDB `
 
-### Cardano
+### Cardano (ADA)
 ` addr1qxs0w68585ztz0qnljszx4aqu5zk3mvx9jjmsgcz3tn0np4q7a50g0gyky7p8l9qydt6peg9drkcvt99hq3s9zhxlxrql023en `
 
-### Solana
+### Solana (SOL)
 ` DCTxTeieWmbgVJt5rnfLguHRs6ZEMyd8HptKu4Ce2ezB `
 
-### Cosmos
+### Cosmos (ATOM)
 ` cosmos1egdypyp7sryhd3hm4f7m0r0tvppgza5w7kysr9 `
 
-### Tezos
+### Tezos (XTZ)
 ` tz1PRwGUj6jLpayBs3m1g5R9xDKQBDhk69cN `
 
-### Ripple
+### Ripple(XRP)
 ` rLSuR3qXjwVhcKnP27wpgf2f66L46XZ1rW `
 
-### Litecoin
+### Litecoin (LTC)
 ` LNyHej9ojmMw8gME7xyC9DDfgNQUQjqn9i `
 
-### Bitcoin Cash
+### Bitcoin Cash (BCH)
 ` qqfcnsm6cuxt0wh33tvztvym5kndpsan7s7e7vrwax `
 
-### LBC
+### Nodle (NODL)
+` 4hEDTCoMCjxMMiCNBYqaj2hM6MU7Xy2zhy3VM9nnMX29PNs9 `
+
+### Sweat Economy (SWEAT)
+Wallet name: ` ninjasmosa `
+
+Wallet address ` fc51ca75856f7fc122fc5d886632e9431388056beead75aa88a30c888dfe7806 `
+
+### LBRY Credits (LBC)
 ` bUsf3Np5dU8ufmhaZ9FQyw5doDisibJqS4 `
 
-### Dogecoin
+### Dogecoin (DOGE)
 ` DKUoNVcUUUjHzjMNNtWbsEEfv1pTGbYAjV `
