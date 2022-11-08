@@ -17,25 +17,28 @@ You can send me cryptocurrency to support me. Usually the process involves loggi
 ` 0x78a8Af863B61A6b981f667eCd611Df571DFB6555 `
 
 ### Monero (XMR)
-` 42Y9YsrsctHUgW9dJycVexAQWXuh6WVVNRiUqzWPFDDiTrSm74UZJyeW4T2o2wmaBUTavDBAxRz4eA5qqRhJqQgrQhQKfDB `
+` 44LMGHc51S1M8MmrLLigJuXowM21UKyhGCpsTSD3BqXz71kHMXVQvMna4nkd6rSvjGPy3fGzHteJGFYjhWyMCvHtTLx1oje `
 
 ### Cardano (ADA)
-` addr1qxs0w68585ztz0qnljszx4aqu5zk3mvx9jjmsgcz3tn0np4q7a50g0gyky7p8l9qydt6peg9drkcvt99hq3s9zhxlxrql023en `
+` addr1q94q2f4lrpgzt9a64r6e89p6whhmfaphquv474eulh43hcmzkmtt5x5ym58xcy4xtm8hx5a77zw6mq56wph8a95jvdpqcm45wg `
 
 ### Solana (SOL)
-` DCTxTeieWmbgVJt5rnfLguHRs6ZEMyd8HptKu4Ce2ezB `
+` DH5YYmHVu5RpSdhBk8Doyek4iZ16rFh1u9NHzH9hyHTS `
 
 ### Cosmos (ATOM)
 ` cosmos1egdypyp7sryhd3hm4f7m0r0tvppgza5w7kysr9 `
 
 ### Tezos (XTZ)
-` tz1PRwGUj6jLpayBs3m1g5R9xDKQBDhk69cN `
+` tz1WC5awfcnVrVxq7DfaJ9Y4YZxaURL1qTfV `
 
-### Ripple(XRP)
+### Ripple (XRP)
 ` rLSuR3qXjwVhcKnP27wpgf2f66L46XZ1rW `
 
 ### Litecoin (LTC)
-` LNyHej9ojmMw8gME7xyC9DDfgNQUQjqn9i `
+` ltc1qq430kp6s6jusj7gx2z8hu5uzndu5e4kn72ed6s `
+
+### NEAR
+` 9f0abbe66791a25246fac0f3ef685260322540f1789e2590518f4f67fbef2255 `
 
 ### Bitcoin Cash (BCH)
 ` qqfcnsm6cuxt0wh33tvztvym5kndpsan7s7e7vrwax `
