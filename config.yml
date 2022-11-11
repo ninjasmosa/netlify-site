@@ -103,12 +103,12 @@ params:
             url: /donations
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/ninjasmosa"
         - name: mastodon
-          url: "https://miruku.cafe/@ninjasmosa"
+          url: "https://masto.ai/@ninjasmosa"
         - name: youtube
           url: "https://www.youtube.com/channel/UCUU5vDID2lyUkTbeU4ry-CQ/"
+        - name: twitter
+          url: "https://twitter.com/ninjasmosa"
         - name: steam
           url: "https://steamcommunity.com/id/ninjasmosa/"
         - name: github
