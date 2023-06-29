@@ -6,9 +6,11 @@ show_comments: false
 ---
 
 ## Intro
+
 Hey! Nice to meet you! My name's Addison. I use [They/She](https://en.pronouns.page/they&she) pronouns.
 
 ## Other interests
+
 I also have an interest in coding and open-source software. Though I only have knowledge in [Python](https://www.python.org) I would like to learn more languages like [Rust](https://www.rust-lang.org).
 
 ## PC specs
@@ -41,18 +43,6 @@ I also have an interest in coding and open-source software. Though I only have k
 - RAM: 8GB DDR4
 - GPU: AMD Radeon Vega 8 (integrated)
 - Storage: 256 NVME SSD
-- OS: Fedora Workstation 37
+- OS: Fedora Workstation 38
 
 {{< /details>}}
-
-## Games I play
-- [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)
-- [Splatoon 3](https://en.wikipedia.org/wiki/Splatoon_3)
-- [Project Diva Mega Mix](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA)
-- [Project Sekai Colorful Stage](https://en.wikipedia.org/wiki/Hatsune_Miku:_Colorful_Stage!)
-
-## Revolt Chat server
-I own two public servers on Revolt:
-
-- [My main server, where we talk abut basically anything](https://app.revolt.chat/invite/CN6ZDq74)
-- [The unofficial Project Sekai Colorful Stage server](https://app.revolt.chat/invite/YV5rJaM8)

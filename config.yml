@@ -36,9 +36,6 @@ menu:
     - name: Archive
       url: /archive
       weight: 25
-    - name: NFTs
-      url: /nfts
-      weight: 30
     - name: Donations
       url: /donations
       weight: 35
@@ -65,7 +62,7 @@ params:
     site_description: "Welcome to the official ninjasmosa website"
     images:
     - /text1058.png
-    defaultTheme: dark
+    defaultTheme: auto
     disableThemeToggle: false
     ShowReadingTime: true
     # disableSpecial1stPost: true
@@ -83,7 +80,7 @@ params:
     profileMode:
         enabled: true
         title: "ninjasmosa"
-        subtitle: "Python programmer + Gamer"
+        subtitle: "Programmer + Gamer"
         imageUrl: "/download20220302164024.webp" # optional
 #        imageTitle: "<title of image as alt>" # optional
         imageWidth: 360 # custom size

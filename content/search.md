@@ -4,5 +4,5 @@ layout: "search" # is necessary
 url: "/search"
 description: "Let's get searching!"
 summary: "search"
-placeholder: "What exactly are you looking for?"
+placeholder: "Enter a page name here..."
 ---

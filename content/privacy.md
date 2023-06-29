@@ -17,7 +17,7 @@ I use Cloudflare Web Analyics to measure analytics on my website. Cloudflare doe
 
 ## YouTube
 
-Some pages contain videos embedded from YouTube. These videos do not have privacy-enhanced mode enabled so watching YouTube videos here may subject you to tracking by Google.
+Some pages contain videos embedded from YouTube. These videos do not have privacy-enhanced mode enabled so watching YouTube videos here may subject you to tracking by Google/YouTube. Google's privacy policy can be seen [here](https://policies.google.com/privacy).
 
 ## Comments
 
