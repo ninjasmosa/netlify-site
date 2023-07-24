@@ -22,7 +22,6 @@ Written in a mix of markdown, HTML and CSS, I made this to replace my old websit
 In late 2021 I had the idea to create a website. I decided to use [Google Sites](https://sites.google.com/new) because of its ease of use and how good a website can look with it. ~~The old website is currently still available on [https://sites.google.com/view/ninjasmosa](https://sites.google.com/view/ninjasmosa).~~ **UPDATE: The old website is no longer online.**
 
 In the end I was quite proud with how everything turned out.
-{{< figure src="https://pbs.twimg.com/media/FMStW6bWUAAl4LM?format=jpg&name=large" align="center" caption="Screenshot of my old website" border="black" >}}
 
 ### However I wanted more
 After a few weeks I realized that Google Sites was as bare-bones as website builders got. There wasn't a lot of features and there wasn't a lot of customisability on offer. Also Google is a big tech company known for constantly closing down old products and selling your data to the highest bidder. That was when I decided to consider other options.

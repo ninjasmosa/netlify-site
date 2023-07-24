@@ -39,9 +39,6 @@ menu:
     - name: Donations
       url: /donations
       weight: 35
-    - name: RSS feeds
-      url: /rss
-      weight: 40
     - name: Links
       url: /links
       weight: 45
@@ -94,8 +91,6 @@ params:
             url: /projects
           - name: Tutorials
             url: /tutorials
-          - name: NFTs
-            url: /nfts
           - name: Donations
             url: /donations
 
@@ -106,14 +101,12 @@ params:
           url: "https://www.youtube.com/channel/UCUU5vDID2lyUkTbeU4ry-CQ/"
         - name: twitter
           url: "https://twitter.com/ninjasmosa"
-        - name: steam
-          url: "https://steamcommunity.com/id/ninjasmosa/"
         - name: github
           url: "https://github.com/ninjasmosa"
+        - name: itchio
+          url: "https://ninjasmosa.itch.io/"
         - name: rss
           url: "rss"
-        - name: email
-          url: "mailto:ninjasmosa@vivaldi.net"
 
 module:
   mounts:

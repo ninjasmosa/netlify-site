@@ -5,7 +5,7 @@ searchHidden: true
 show_comments: false
 ---
 
-Get notified when I post something new. Subscribe to any of feeds with your preferred RSS feed reader.
+Get notified when I post something new. Subscribe to any of the feeds with your preferred RSS feed reader.
 
 [Updates for all pages on the whole site](https://ninjasmosa.com/index.xml#feed)
 
