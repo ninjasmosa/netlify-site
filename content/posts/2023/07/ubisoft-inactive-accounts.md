@@ -1,6 +1,6 @@
 ---
 title: "Is Ubisoft really deleting accounts and taking away your purchases?"
-date: 2023-07-24
+date: 2023-07-24T18:00:00Z
 draft: false
 categories: Posts
 tags:
@@ -12,7 +12,7 @@ In short, this is only partly true. They only delete accounts that have no purch
 
 ## Background
 
-On the 20th of July, Ubisoft posted a reply to a tweet complaining that they were deleting inactive accounts. The tweet can be seen [here.](https://twitter.com/UbisoftSupport/status/1682046437834784768).
+On the 20th of July, Ubisoft posted a reply to a tweet complaining that they were deleting inactive accounts. The tweet can be seen [here](https://twitter.com/UbisoftSupport/status/1682046437834784768).
 
 {{< figure src="/images/ubisofttriestocalmentitledangrygamerguy.webp" align="center" alt="A series of tweets: @PC_Enjoyer: UBISOFT closes your account if you haven’t logged in for some time. You will lose all your games purchased forever. @UbisoftSupport: Hey there. We just wanted to chime in that you can avoid the account closure by logging into your account within the 30 days (since receiving the email pictured) and selecting the Cancel Account Closure link contained in the email. We certainly do not want you to lose access to your games or account so if you have any difficulties logging in then please create a support case with us." >}}
 

@@ -10,7 +10,6 @@ categories:
     - Projects
 draft: false
 ---
-[https://github.com/ninjasmosa/He-She-to-They](https://user-images.githubusercontent.com/27077617/184457771-afeb96df-b642-40c5-a2cd-6af3acc4dc11.mp4)
 
 ## What is it?
 This is a userscript that replaces any instance of "He/She" or "He or She" on a web page to "They". The code can recognise instances of "he/she is" and replace them with "they are" to maintain grammatical correctness. Other contextual differences can be recognised and replaced accordingly.
