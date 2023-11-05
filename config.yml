@@ -24,24 +24,21 @@ menu:
     - name: About me
       url: /aboutme
       weight: 5
-    - name: Projects
-      url: /projects
-      weight: 10
     - name: Posts
       url: /posts
+      weight: 10
+    - name: Projects
+      url: /projects
       weight: 15
     - name: Tutorials
       url: /tutorials
       weight: 20
+    - name: Art
+      url: /art
+      weight: 25
     - name: Archive
       url: /archive
-      weight: 25
-    - name: Donations
-      url: /donations
-      weight: 35
-    - name: Links
-      url: /links
-      weight: 45
+      weight: 30
     - name: Search
       url: /search
       weight: 50
