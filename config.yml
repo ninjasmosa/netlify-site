@@ -33,9 +33,9 @@ menu:
     - name: Tutorials
       url: /tutorials
       weight: 20
-    - name: Art
-      url: /art
-      weight: 25
+#    - name: Art
+#      url: /art
+#      weight: 25
     - name: Archive
       url: /archive
       weight: 30
@@ -95,9 +95,7 @@ params:
         - name: mastodon
           url: "https://masto.ai/@ninjasmosa"
         - name: youtube
-          url: "https://www.youtube.com/channel/UCUU5vDID2lyUkTbeU4ry-CQ/"
-        - name: twitter
-          url: "https://twitter.com/ninjasmosa"
+          url: "https://www.youtube.com/@ninjasmosa"
         - name: github
           url: "https://github.com/ninjasmosa"
         - name: itchio
