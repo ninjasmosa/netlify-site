@@ -39,6 +39,9 @@ menu:
     - name: Archive
       url: /archive
       weight: 30
+    - name: Links
+      url: /links
+      weight: 35
     - name: Search
       url: /search
       weight: 50
@@ -74,9 +77,8 @@ params:
     profileMode:
         enabled: true
         title: "ninjasmosa"
-        subtitle: "Programmer + Gamer"
+        subtitle: "Girl on the net"
         imageUrl: "/download20220302164024.webp" # optional
-#        imageTitle: "<title of image as alt>" # optional
         imageWidth: 360 # custom size
         imageHeight: 360 # custom size
         buttons:
@@ -84,24 +86,18 @@ params:
             url: /aboutme
           - name: Posts
             url: /posts
-          - name: Projects
-            url: /projects
-          - name: Tutorials
-            url: /tutorials
-          - name: Donations
-            url: /donations
 
     socialIcons:
-        - name: mastodon
-          url: "https://masto.ai/@ninjasmosa"
-        - name: youtube
-          url: "https://www.youtube.com/@ninjasmosa"
-        - name: github
-          url: "https://github.com/ninjasmosa"
-        - name: itchio
-          url: "https://ninjasmosa.itch.io/"
-        - name: rss
-          url: "rss"
+      - name: bluesky
+        url: "https://bsky.app/profile/ninjasmosa.com"
+      - name: mastodon
+        url: "https://masto.ai/@ninjasmosa"
+      - name: youtube
+        url: "https://www.youtube.com/@ninjasmosa"
+      - name: github
+        url: "https://github.com/ninjasmosa"
+      - name: rss
+        url: "/rss"
 
 module:
   mounts:
@@ -129,7 +125,7 @@ services:
 privacy:
     vimeo:
         disabled: false
-        simple: false
+        simple: true
 
     twitter:
         disabled: false
@@ -142,4 +138,4 @@ privacy:
 
     youtube:
         disabled: false
-        privacyEnhanced: false
+        privacyEnhanced: true

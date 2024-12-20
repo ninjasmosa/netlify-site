@@ -5,7 +5,7 @@ searchHidden: true
 show_comments: false
 ---
 
-My privacy policy is simple. I don't do any first-party scraping of user data. I also do not sell any data that you pass onto me to any third-parties. However there are some things that you should keep in mind when using this website.
+I don't do any first-party scraping of user data. I also do not sell any data that you pass onto me to any third-parties. However there are some things that you should keep in mind when using this website.
 
 ## Do Not Track
 
@@ -17,7 +17,7 @@ I use Cloudflare Web Analyics to measure analytics on my website. Cloudflare doe
 
 ## YouTube
 
-Some pages contain videos embedded from YouTube. These videos do not have privacy-enhanced mode enabled so watching YouTube videos here may subject you to tracking by Google/YouTube. Google's privacy policy can be seen [here](https://policies.google.com/privacy).
+Some pages contain videos embedded from YouTube. These videos have privacy-enhanced mode enabled, but you may be subjected to tracking by Google/YouTube. Google's privacy policy can be seen [here](https://policies.google.com/privacy).
 
 ## Comments
 
